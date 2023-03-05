@@ -32,5 +32,5 @@ In my free time, I'm sharpening my skills in machine learning. With a focus on i
 
 <br />
 
-[![Ashutosh's Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshKumarPatel)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshKumarPatel&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
